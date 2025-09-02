@@ -11,6 +11,7 @@ Both automated and manual testing were performed to confirm findings and underst
 Vulnerabilities were classified according to the OWASP Top 10 categories.
 
 🛡️ Key Findings
+
 The following vulnerabilities were identified during the assessment:
 
 Replay and Impersonation - Enables duplicate submissions and feedback impersonation.
